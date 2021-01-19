@@ -16,3 +16,5 @@ console.log('Hello world4');
 
 //c
 //c
+
+// some code after switching
